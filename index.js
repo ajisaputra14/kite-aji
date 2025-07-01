@@ -746,7 +746,7 @@ async function processAccounts(accounts, professorMessages, cryptoBuddyMessages,
 
   const aiAgents = {
     "Professor": "deployment_MJX99ReRJ0PViYQ89xB0jcbI",
-    "Crypto Buddy": "deployment_nXOmSXjGYfDOCO6iHSw9GKRk",
+    "Crypto Buddy": "deployment_3IWOayz5ua78aO9VEH4yAfbM",
     "Sherlock": "deployment_OX7sn2D0WvxGUGK8CTqsU5VJ"
   };
   const agentNames = ["Professor", "Crypto Buddy", "Sherlock"];
