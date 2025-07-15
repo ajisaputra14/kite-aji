@@ -745,8 +745,8 @@ async function processAccounts(accounts, professorMessages, cryptoBuddyMessages,
   let failedChats = 0;
 
   const aiAgents = {
-    "Professor": "deployment_MJX99ReRJ0PViYQ89xB0jcbI",
-    "Crypto Buddy": "deployment_3IWOayz5ua78aO9VEH4yAfbM",
+    "Professor": "deployment_EHU4naxvGffI8VJEBBmV5ABa",
+    "Crypto Buddy": "deployment_l3QYj1avTiZz2vH2daFJBGu1",
     "Sherlock": "deployment_OX7sn2D0WvxGUGK8CTqsU5VJ"
   };
   const agentNames = ["Professor", "Crypto Buddy", "Sherlock"];
